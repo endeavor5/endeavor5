@@ -3,25 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endeavor5&label=Profile%20views&color=0e75b6&style=flat" alt="endeavor5" /> </p>
 
-- 🔭 I’m currently working on **textured and other projects**
+**textured and other projects**
 
 - 🌱 I’m currently learning **"LIFE"**
-
-- 👯 I’m looking to collaborate on **global shopping mall project**
-
-- 👨‍💻 All of my projects are available at [https://studioseon.kr](https://studioseon.kr)
-
-- 📝 I regularly write articles on [https://studioseon.kr](https://studioseon.kr)
-
+- [https://studioseon.kr](https://studioseon.kr)
 - 💬 Ask me about **react, nextjs, django, drf and others**
-
 - 📫 How to reach me **ndvor@naver.com**
-
-- 📄 Know about my experiences [https://studioseon.kr](https://studioseon.kr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/nou9h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="nou9h" height="30" width="40" /></a>
+<a href="https://instagram.com/nou9h" target="blank">[https://www.instagram.com/nou9h](https://www.instagram.com/nou9h)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
