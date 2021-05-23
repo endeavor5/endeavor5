@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm SEONGJIN,OH</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h1 align="center">SEONGJIN OH</h1>
+<h3 align="center">studioseon(develop/design), @office.201c(space,office), textured(-) project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endeavor5&label=Profile%20views&color=0e75b6&style=flat" alt="endeavor5" /> </p>
 
-- 🔭 I’m currently working on **textured project**
+- 🔭 I’m currently working on **textured and other projects**
 
 - 🌱 I’m currently learning **"LIFE"**
 
