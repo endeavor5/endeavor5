@@ -1,11 +1,5 @@
 <h2 align="center">SEONGJIN OH</h2>
-<h3 align="center">studioseon(develop/design), @office.201c(space,office), textured(-) project</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=endeavor5&label=Profile%20views&color=0e75b6&style=flat" alt="endeavor5" /> </p>
 
-**textured and other projects**
-- [https://studioseon.kr](https://studioseon.kr)
-- [https://www.instagram.com/nou9h](https://www.instagram.com/nou9h)
-- I’m currently learning **"LIFE"**
 - Ask me about **react, nextjs, django, drf and others**
 - How to reach me **ndvor@naver.com**
 
